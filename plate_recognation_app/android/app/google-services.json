@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485311611155",
+    "firebase_url": "https://piproject-e345f.firebaseio.com",
+    "project_id": "piproject-e345f",
+    "storage_bucket": "piproject-e345f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485311611155:android:3434a5de90da52de795ae6",
+        "android_client_info": {
+          "package_name": "com.example.plate_recognation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485311611155-386bm2n31dmie2ooc1r4fa8j47gags79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plate_recognation",
+            "certificate_hash": "d07270ef026a85a7c773ccfc88ac1edac4c03f4a"
+          }
+        },
+        {
+          "client_id": "485311611155-92im2joed35ofb6mjnakgsdn4f8j8k4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxkOCJErqbw5zY3qOgOTZFtCRc3WSQUb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485311611155-92im2joed35ofb6mjnakgsdn4f8j8k4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
